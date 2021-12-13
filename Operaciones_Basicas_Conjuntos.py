@@ -1,4 +1,6 @@
-######################################################################### Programa_Conjuntos ##################################################################
+########################################### Programa_Conjuntos #############################################
+
+# $Autor: Ing. Brian Sarmina, correo: brian.garsar.6@gmail.com$ #
 
 # Programa para generar operaciones de conjuntos, conjuntos de "numeros" o "letras".
 
